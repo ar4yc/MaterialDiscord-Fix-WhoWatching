@@ -1,0 +1,36 @@
+.panel__5dec7.activityPanel__5e434 {
+    padding-bottom: 12px !important;
+}
+
+.vc-whos-watching-screenshare-panel .body__5dec7 .gameWrapper__5dec7 {
+    display: none !important;
+}
+
+.vc-whos-watching-screenshare-panel {
+    display: grid !important;
+    grid-template-columns: 1fr auto !important; 
+    align-items: center !important;
+    width: 100% !important;
+    gap: 8px !important;
+}
+
+.vc-whos-watching-screenshare-panel .body__5dec7 {
+    display: contents !important;
+}
+
+.vc-whos-watching-spectating-panel.vc-margin-top-8 {
+    grid-column: 1 !important;
+    grid-row: 1 !important;
+    
+    margin-top: 0px !important;
+    margin-bottom: 1px !important;
+}
+
+.vc-whos-watching-screenshare-panel .actions__4cd01 {
+    grid-column: 2 !important;
+    grid-row: 1 !important;
+
+    margin-top: 5px !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+}
