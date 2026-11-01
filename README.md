@@ -1,1 +1,1 @@
-# MaterialDiscord-Fix-WhoWatching-
+# MaterialDiscord-Fix-WhoWatching
